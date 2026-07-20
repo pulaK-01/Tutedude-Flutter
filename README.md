@@ -26,5 +26,5 @@
 
 # assignment-2
 
-# output 
-![example programs](screenshots/ass2.jpg)
+# output of example programs
+![](screenshots/ass2.jpg)
