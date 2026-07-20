@@ -5,7 +5,7 @@
 
 # assignment-1
 
-## Emulator Screen
+<!-- ## Emulator Screen
 
 ![Emulator Screen](demo_app_screenshots/emulator_screen.jpg)
 
@@ -21,4 +21,7 @@
 
 ![Terminal 3](demo_app_screenshots/terminal_3.jpg)
 
-![Terminal 4](demo_app_screenshots/terminal_4.jpg)
+![Terminal 4](demo_app_screenshots/terminal_4.jpg) -->
+
+
+# assignment-2
