@@ -7,21 +7,21 @@
 
 <!-- ## Emulator Screen
 
-![Emulator Screen](demo_app_screenshots/emulator_screen.jpg)
+![Emulator Screen](screenshots/emulator_screen.jpg)
 
 ## Application
 
-![Application](demo_app_screenshots/application.jpg)
+![Application](screenshots/application.jpg)
 
 ## Terminal Output
 
-![Terminal 1](demo_app_screenshots/terminal_1.jpg)
+![Terminal 1](screenshots/terminal_1.jpg)
 
-![Terminal 2](demo_app_screenshots/terminal_2.jpg)
+![Terminal 2](screenshots/terminal_2.jpg)
 
-![Terminal 3](demo_app_screenshots/terminal_3.jpg)
+![Terminal 3](screenshots/terminal_3.jpg)
 
-![Terminal 4](demo_app_screenshots/terminal_4.jpg) -->
+![Terminal 4](screenshots/terminal_4.jpg) -->
 
 
 # assignment-2
