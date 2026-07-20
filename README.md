@@ -4,7 +4,7 @@
 
 ## Emulator Screen
 
-<!-- ![Emulator Screen](demo_app_screenshots/emulator_screen.jpg) -->
+![Emulator Screen](demo_app_screenshots/emulator_screen.jpg)
 
 ## Application
 
