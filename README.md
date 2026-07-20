@@ -1,6 +1,4 @@
-# Tutedude-Flutter
 
-# Screenshots
 
 ## Emulator Screen
 
