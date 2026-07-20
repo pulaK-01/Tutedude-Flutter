@@ -25,3 +25,6 @@
 
 
 # assignment-2
+
+# output of example programs
+!(screenshots/ass2.jpg)
