@@ -1,11 +1,16 @@
-# Tutedude-Flutter
+
 
 # Screenshots
+
+# assignment-2
+
+# output of example programs
+![](screenshots/ass2.jpg)
 
 
 # assignment-1
 
-<!-- ## Emulator Screen
+## Emulator Screen
 
 ![Emulator Screen](screenshots/emulator_screen.jpg)
 
@@ -21,10 +26,6 @@
 
 ![Terminal 3](screenshots/terminal_3.jpg)
 
-![Terminal 4](screenshots/terminal_4.jpg) -->
+![Terminal 4](screenshots/terminal_4.jpg)
 
 
-# assignment-2
-
-# output of example programs
-![](screenshots/ass2.jpg)
