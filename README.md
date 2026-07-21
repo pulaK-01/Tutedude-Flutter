@@ -3,9 +3,9 @@
 
 
 
-<!-- # assignment-1
+# assignment-1
 
-## Emulator Screen
+<!-- ## Emulator Screen
 
 ![Emulator Screen](screenshots/emulator_screen.jpg)
 
