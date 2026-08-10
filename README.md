@@ -1,8 +1,5 @@
 # Screenshots
 
-
-
-
 # assignment-1
 
 <!-- ## Emulator Screen
@@ -23,27 +20,20 @@
 
 ![Terminal 4](screenshots/terminal_4.jpg) -->
 
-
-
-
-
 # assignment-2
-    
+
 <!--     # output of example programs
 ![](screenshots/ass2.jpg) -->
 
 
-
 # assignment-3
-    <!-- ## output fs.dart
-    ![](screenshots/fs.jpg)
-    ## output coll.dart
-    ![](screenshots/coll.jpg)
-    ## output oops.dart
-    ![](screenshots/oops.jpg)  -->
-
+<!-- ## output fs.dart
+![](screenshots/fs.jpg)
+## output coll.dart
+![](screenshots/coll.jpg)
+## output oops.dart
+![](screenshots/oops.jpg) -->
 
 
 
 # assignment-4
-
