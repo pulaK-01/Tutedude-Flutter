@@ -35,17 +35,15 @@
 
 
 # assignment-3
-
-
     <!-- # output fs.dart
-    ![](screenshots/fs.jpg)
+![](screenshots/fs.jpg)
     # output coll.dart
-    ![](screenshots/coll.jpg)
+![](screenshots/coll.jpg)
     # output oops.dart
-    ![](screenshots/oops.jpg) -->
+![](screenshots/oops.jpg) -->
 
 
 
 
 # assignment-4
-    
+
