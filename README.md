@@ -39,3 +39,5 @@
 # assignment-4
     ## project creation
 ![](screenshots/ass4_project.jpg)
+    ## emulator screen
+![](screenshots/ass4_project.jpg)    
