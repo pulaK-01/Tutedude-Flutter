@@ -42,6 +42,6 @@
    
 ![](screenshots/ass4_project.jpg)   
  ## emulator screen
-![](screenshots/ass4_emulator screen.png)  
+![](screenshots/ass4_emulatorscreen.png)  
 
 
