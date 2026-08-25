@@ -8,8 +8,8 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.blueGrey,
         appBar: AppBar(
-          title: Text("application's appbar"),
-          backgroundColor: Colors.tealAccent,
+          title: Text("application's appbar",style:TextStyle(color:Colors.white) ),
+          backgroundColor: Colors.black,
         ),
         body: Center(
           child: Text(
