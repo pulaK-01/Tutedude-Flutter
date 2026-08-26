@@ -37,11 +37,11 @@
 
 
 # assignment-4
-    ## project creation
+    <!-- ## project creation
 ![](screenshots/ass4_project.jpg)
    
 ![](screenshots/ass4_project.jpg)   
  ## emulator screen
-![](screenshots/ass4_emulatorscreen.png)  
+![](screenshots/ass4_emulatorscreen.png)   -->
 
 
