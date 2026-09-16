@@ -25,8 +25,8 @@
 <!--     # output of example programs
 ![](screenshots/ass2.jpg) -->
 
-
 # assignment-3
+
 <!-- ## output fs.dart
 ![](screenshots/fs.jpg)
 ## output coll.dart
@@ -34,9 +34,8 @@
 ## output oops.dart
 ![](screenshots/oops.jpg) -->
 
-
-
 # assignment-4
+
 <!-- ## project creation
 ![](screenshots/ass4_project.jpg)
 
@@ -44,4 +43,8 @@
 ## emulator screen
 ![](screenshots/ass4_emulatorscreen.png) -->
 
+# assignment-5
 
+ve prepared the random quote generator screen ,,, including scaffold , appbar , container , row , column , padding , basic colours and fontstyle
+
+![](screenshots/image.png)
