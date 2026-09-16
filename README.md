@@ -47,4 +47,6 @@
 
 ve prepared the random quote generator screen ,,, including scaffold , appbar , container , row , column , padding , basic colours and fontstyle
 
+# emulator screen
+
 ![](screenshots/image.png)
