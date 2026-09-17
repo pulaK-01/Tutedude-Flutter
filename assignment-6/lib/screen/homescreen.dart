@@ -77,7 +77,23 @@ class _HomescreenState extends State<Homescreen> {
 
             SizedBox(height: 40),
 
-            ElevatedButton(onPressed: -> print("button pressed"), child: Text(),)
+            Center(
+              child: ElevatedButton(
+                style: ElevatedButton.styleFrom(
+                  padding: EdgeInsets.symmetric(vertical: 5, horizontal: 15),
+                  backgroundColor: Colors.deepPurpleAccent,
+                ),
+                onPressed: () {},
+                child: Text(
+                  "Click",
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 20,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+              ),
+            ),
           ],
         ),
       ),
