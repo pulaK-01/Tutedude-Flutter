@@ -47,10 +47,12 @@
 
 ve prepared the random quote generator screen ,,, including scaffold , appbar , container , row , column ,icon, padding , basic colours and fontstyle
 
-# emulator screen
+## emulator screen
 
 ![](screenshots/assignment5.png)
 
+# assignment-7
 
-## assignment-7
-Dice App
+## Dice App
+
+![](screenshots/dice_app.mp4)
