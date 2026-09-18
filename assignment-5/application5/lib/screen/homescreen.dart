@@ -74,6 +74,10 @@ class _HomescreenState extends State<Homescreen> {
                 ),
               ],
             ),
+
+            SizedBox(height: 40.0),
+
+            Icon(Icons.description, color: Colors.pink[400], size: 80),
           ],
         ),
       ),

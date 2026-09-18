@@ -6,6 +6,10 @@ class Application5 extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(title: 'Application5', home: Homescreen());
+    return MaterialApp(
+      //debugShowCheckedModeBanner: false,
+      title: 'Application5',
+      home: const Homescreen(),
+    );
   }
 }
