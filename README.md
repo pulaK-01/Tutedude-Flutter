@@ -49,4 +49,4 @@ ve prepared the random quote generator screen ,,, including scaffold , appbar , 
 
 # emulator screen
 
-![](screenshots/image.png)
+![](screenshots/assignment5.png)
