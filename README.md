@@ -55,4 +55,4 @@ ve prepared the random quote generator screen ,,, including scaffold , appbar , 
 
 ## Dice App
 
-![](screenshots/dice_app.mp4)
+![](screenshots/!diceapp.png)
