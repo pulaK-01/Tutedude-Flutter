@@ -1,47 +1,47 @@
-# Screenshots
+# Visuals
 
 # assignment-1
 
 <!-- ## Emulator Screen
 
-![Emulator Screen](screenshots/emulator_screen.jpg)
+![Emulator Screen](Visuals/emulator_screen.jpg)
 
 ## Application
 
-![Application](screenshots/application.jpg)
+![Application](Visuals/application.jpg)
 
 ## Terminal Output
 
-![Terminal 1](screenshots/terminal_1.jpg)
+![Terminal 1](Visuals/terminal_1.jpg)
 
-![Terminal 2](screenshots/terminal_2.jpg)
+![Terminal 2](Visuals/terminal_2.jpg)
 
-![Terminal 3](screenshots/terminal_3.jpg)
+![Terminal 3](Visuals/terminal_3.jpg)
 
-![Terminal 4](screenshots/terminal_4.jpg) -->
+![Terminal 4](Visuals/terminal_4.jpg) -->
 
 # assignment-2
 
 <!--     # output of example programs
-![](screenshots/ass2.jpg) -->
+![](Visuals/ass2.jpg) -->
 
 # assignment-3
 
 <!-- ## output fs.dart
-![](screenshots/fs.jpg)
+![](Visuals/fs.jpg)
 ## output coll.dart
-![](screenshots/coll.jpg)
+![](Visuals/coll.jpg)
 ## output oops.dart
-![](screenshots/oops.jpg) -->
+![](Visuals/oops.jpg) -->
 
 # assignment-4
 
 <!-- ## project creation
-![](screenshots/ass4_project.jpg)
+![](Visuals/ass4_project.jpg)
 
-![](screenshots/ass4_project.jpg)
+![](Visuals/ass4_project.jpg)
 ## emulator screen
-![](screenshots/ass4_emulatorscreen.png) -->
+![](Visuals/ass4_emulatorscreen.png) -->
 
 # assignment-5
 
@@ -49,13 +49,13 @@ ve prepared the random quote generator screen ,,, including scaffold , appbar , 
 
 ## emulator screen
 
-![](screenshots/assignment5.png)
+![](Visuals/assignment5.png)
 
 # assignment-7
 
 ## Dice App
 please go to the 'Visuals' ...i ve uploaded a video of it...no previewing option in readme.md 🥹
 
-![](screenshots/dice_app.png)
+![](Visuals/dice_app.png)
 
-![](screenshots/dice_app.mp4)
+![](Visuals/dice_app.mp4)
