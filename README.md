@@ -50,3 +50,7 @@ ve prepared the random quote generator screen ,,, including scaffold , appbar , 
 # emulator screen
 
 ![](screenshots/assignment5.png)
+
+
+## assignment-7
+Dice App
