@@ -54,6 +54,7 @@ ve prepared the random quote generator screen ,,, including scaffold , appbar , 
 # assignment-7
 
 ## Dice App
+please go to the 'Visuals' ...i ve uploaded a video of it...no previewing option in readme.md 🥹
 
 ![](screenshots/dice_app.png)
 
