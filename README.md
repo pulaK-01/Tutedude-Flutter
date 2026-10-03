@@ -53,10 +53,16 @@
  -->
 
 # assignment-6
-i am working on a ambulance app...it is the trip history page for driver 
+
+i am working on a ambulance app...it is the trip history page for driver
 it incluses a scrollable list of cards , item tap handleing and button clicks
 
+## emulator screen
 
+![](Visuals/ass6-1.png)
+[](Visuals/ass6-2.png)
+[](Visuals/ass6-3.png)
+[](Visuals/ass6-video.mp4)
 
 # assignment-7
 
@@ -67,6 +73,6 @@ please go to the 'Visuals' ...i ve uploaded a video of it...no previewing option
 
 ![](Visuals/dice_app.mp4) -->
 
-
 # assignment-8
+
 ## Journal App
