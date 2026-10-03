@@ -59,10 +59,11 @@ it incluses a scrollable list of cards , item tap handleing and button clicks
 
 ## emulator screen
 
-![](Visuals/ass6-1.png)
-![](Visuals/ass6-2.png)
-![](Visuals/ass6-3.png)
-![](Visuals/ass6-video.mp4)
+<img src="Visuals/ass6-1.png" width="300">
+<img src="Visuals/ass6-2.png" width="300">
+<img src="Visuals/ass6-3.png" width="300">
+
+[Watch the emulator demo](Visuals/ass6-video.mp4)
 
 # assignment-7
 
