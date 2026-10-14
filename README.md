@@ -54,7 +54,7 @@
 
 # assignment-6
 
-i am working on a ambulance app...it is the trip history page for driver
+<!-- i am working on a ambulance app...it is the trip history page for driver
 it incluses a scrollable list of cards , item tap handleing and button clicks
 
 ## emulator screen
@@ -63,7 +63,7 @@ it incluses a scrollable list of cards , item tap handleing and button clicks
 <img src="Visuals/ass6-2.png" width="300">
 <img src="Visuals/ass6-3.png" width="300">
 
-[Watch the emulator demo](Visuals/ass6-video.mp4)
+[Watch the emulator demo](Visuals/ass6-video.mp4) -->
 
 # assignment-7
 
@@ -80,7 +80,9 @@ please go to the 'Visuals' ...i ve uploaded a video of it...no previewing option
 
 homescreen
 <img src="Visuals/journal1.jpg" width="300">
+
 bottomsheet
 <img src="Visuals/journal2.jpg" width="300">
+
 new entries
 <img src="Visuals/journal3.jpg" width="300">
