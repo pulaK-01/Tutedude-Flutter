@@ -79,10 +79,13 @@ please go to the 'Visuals' ...i ve uploaded a video of it...no previewing option
 ## Journal App
 
 homescreen
+
 <img src="Visuals/journal1.jpg" width="300">
 
 bottomsheet
+
 <img src="Visuals/journal2.jpg" width="300">
 
 new entries
+
 <img src="Visuals/journal3.jpg" width="300">
