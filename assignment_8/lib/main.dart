@@ -1,16 +1,16 @@
+import 'package:assignment_8/screen/homescreen.dart';
+
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const MainApp());
+  runApp(const JournalApp());
 }
 
-class MainApp extends StatelessWidget {
-  const MainApp({super.key});
+class JournalApp extends StatelessWidget {
+  const JournalApp({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
-      home: Scaffold(body: Center(child: Text('Hello World!'))),
-    );
+    return const MaterialApp(home: HomeScreen());
   }
 }
